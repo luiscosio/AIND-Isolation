@@ -11,7 +11,7 @@ This project uses a version of Isolation where each agent is restricted to L-sha
 
 Additionally, agents will have a fixed time limit each turn to search for the best move and respond.  If the time limit expires during a player's turn, that player forfeits the match, and the opponent wins.
 
-These rules are implemented in the `isolation.Board` class provided in the repository. 
+These rules are implemented in the `isolation.Board` class provided in the repository.
 
 
 ## Quickstart Guide
